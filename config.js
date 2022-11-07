@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Robin',
+  name: '',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
-  title: 'Start',
+  title: 'Cyb3rWolf',
 
 	// Greetings
 	greetingMorning: 'Guten Morgen!',
-	greetingAfternoon: 'Guten Mittag,',
-	greetingEvening: 'Guten Abend,',
+	greetingAfternoon: 'Guten Mittag!',
+	greetingEvening: 'Guten Abend!',
 	greetingNight: 'Geh schlafen!',
 
 	// Layout
@@ -59,37 +59,37 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/CbrWlf',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/cbrwlf_/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Osu',
+			icon: 'circle',
+			link: 'https://osu.ppy.sh/users/19877706',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/Cyb3rWolf',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Discord',
+			icon: 'mic',
+			link: 'https://discordapp.com/users/Cyb3rWolf#4222',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/c/Cyb3rWolf/',
 		},
 	],
 
@@ -143,20 +143,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hip-Hop',
+					link: 'https://open.spotify.com/playlist/4nKGseVW1j51SWiFfnpldY?si=7bb401eb95a34bb6',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Rock/Metal',
+					link: 'https://open.spotify.com/playlist/26qB5MVmzKcVH3gnmA6Nvi?si=18d6ce7def934c53',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Chill',
+					link: 'https://open.spotify.com/playlist/4HzEyiApJGAE8GUNZdBhkr?si=b2966ed52cec46cb',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'EDM',
+					link: 'https://open.spotify.com/playlist/7xzqhDo8CdTIBA3oRpYUcP?si=cb02f86b7b5446b4',
 				},
 			],
 		},
