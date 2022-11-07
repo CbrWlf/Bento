@@ -160,9 +160,9 @@ const CONFIG = {
 				},
 			],
 		},
-		{
+		/*{
 			icon: 'coffee',
-			id: '2',
+			id: '3',
 			links: [
 				{
 					name: 'Linkedin',
@@ -179,7 +179,7 @@ const CONFIG = {
 				{
 					name: 'Slack',
 					link: 'https://www.slack.com',
-				},
+				},*/
 			],
 		},
 	],
