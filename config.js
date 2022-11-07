@@ -162,7 +162,7 @@ const CONFIG = {
 		},
 		/*{
 			icon: 'coffee',
-			id: '3',
+			id: '2',
 			links: [
 				{
 					name: 'Linkedin',
