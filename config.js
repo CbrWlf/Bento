@@ -160,7 +160,7 @@ const CONFIG = {
 				},
 			],
 		},
-		{
+		/*{
 			icon: 'coffee',
 			id: '3',
 			links: [
@@ -181,7 +181,7 @@ const CONFIG = {
 					link: 'https://www.slack.com',
 				},
 			],
-		},
+		},*/
 	],
 
 	// Second Links Container
